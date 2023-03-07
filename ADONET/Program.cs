@@ -10,19 +10,9 @@ namespace ADONET
     {
         static void Main(string[] args)
         {
-         EmployeePayRoll model=new EmployeePayRoll();
-           
-
-            model.Name = "Vishu";
-            model.id = 11;
-                   
-            //  EmployeeRepository.AddEmployee(model);
-            EmployeeRepository.DeleteEmployee(model);
-            //EmployeeRepository.GetAllEmployees();
-
-
+         EmployeeRepository model=new EmployeeRepository();
             Console.ReadLine();
-
+     
         }
     }
 }
