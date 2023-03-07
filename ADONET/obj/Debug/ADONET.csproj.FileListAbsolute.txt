@@ -1,0 +1,8 @@
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe.config
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\bin\Debug\ADONET.pdb
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.AssemblyReference.cache
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CoreCompileInputs.cache
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\obj\Debug\ADONET.exe
+C:\Users\SHIVNERI\source\repos\ADONET\ADONET\obj\Debug\ADONET.pdb
